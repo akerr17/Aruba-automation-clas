@@ -1,2 +1,2 @@
-# Aruba-automation-clas
+# Aruba-automation-class
 The fist repo for Aruba network automation
